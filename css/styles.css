@@ -1,0 +1,27 @@
+#banner{
+    font-family: 'Bebas Neue';
+    font-size: xx-large;
+}
+.valueText{
+    font-family: 'Bebas Neue';
+    font-size: 4em;
+    text-align: center;
+}
+.valueCard{
+    background-color: #d59d8e;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.textBebas{
+    font-family: 'Bebas Neue';
+}
+.segment{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+nav{
+    background-color:#d59d8e;
+}
+body{
+    background-color: #e8d0cb;
+}
