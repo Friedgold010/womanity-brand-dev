@@ -3,18 +3,18 @@
     font-size: xx-large;
 }
 .VISION {
-    font-family: 'Bebas Neue';
+    font-family: 'Roboto', sans-serif;
     font-size: xx-large;
     text-align: center;
 }
 .VISIONHEADER {
-    font-family: 'Bebas Neue';
+    font-family: 'Roboto', sans-serif;
     font-size: xxx-large;
     text-align: center;
     color: #d59d8e;
 }
 .valueText {
-    font-family: 'Bebas Neue';
+    font-family: 'Roboto', sans-serif;
     font-size: 4em;
     text-align: center;
 }
@@ -26,12 +26,15 @@
 .textBebas {
     font-family: 'Bebas Neue';
 }
+.textRoboto {
+    font-family: 'Roboto', sans-serif;
+}
 .segment {
     margin-top: 3%;
     margin-bottom: 3%;
 }
-nav {
-    background-color: #d59d8e;
+.navbar {
+    background-color: #885b4e !important;
 }
 body {
     background-color: #d59d8e;
@@ -42,18 +45,20 @@ form {
     padding: 50px;
     background-color: #d59d8e;
 }
-.aboutUsCard {
+aboutUsCard {
     margin: 5%;
 }
 .container {
     background-color: #b17463;
+    margin-top:2%;
+    margin-bottom:2%;
 }
 div.elem-group {
     margin: 20px 0;
 }
 label {
     display: block;
-    font-family: 'Bebas Neue';
+    font-family: 'Roboto', sans-serif;
     padding-bottom: 10px;
     font-size: 1.25em;
 }
@@ -64,7 +69,7 @@ textarea {
     border: 2px solid #777;
     box-sizing: border-box;
     font-size: 1.25em;
-    font-family: 'Bebas Neue';
+    font-family: 'Roboto', sans-serif;
     width: 100%;
     padding: 10px;
 }
@@ -84,7 +89,7 @@ button {
     border:black;
     color: black;
     font-size: 1.25em;
-    font-family: 'Bebas Neue';
+    font-family: 'Roboto', sans-serif;
     border-radius: 4px;
     cursor: pointer;
 }
@@ -94,4 +99,8 @@ button:hover {
 .row{
     padding-top:1%;
     padding-bottom: 1%;
+}
+
+blockquote{
+    background-color: #d59d8e
 }
